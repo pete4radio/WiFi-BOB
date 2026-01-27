@@ -3800,7 +3800,7 @@
 		(uuid "9e5d5977-7921-48a9-b8d0-034c66920fe2")
 	)
 	(no_connect
-		(at 256.54 119.38)
+		(at 271.78 115.57)
 		(uuid "ad6994c0-8879-4a77-b4e6-2d63f4348059")
 	)
 	(no_connect
@@ -7198,7 +7198,7 @@
 	)
 	(symbol
 		(lib_id "Device:Antenna")
-		(at 256.54 114.3 0)
+		(at 271.78 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7207,7 +7207,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a7e0871-d4e7-4b37-b6b0-a35e35d733aa")
 		(property "Reference" "AE1"
-			(at 259.08 113.6649 0)
+			(at 274.32 109.8549 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7216,7 +7216,7 @@
 			)
 		)
 		(property "Value" "Antenna"
-			(at 259.08 116.2049 0)
+			(at 274.32 112.3949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7225,7 +7225,7 @@
 			)
 		)
 		(property "Footprint" "RF_Antenna:Texas_SWRA117D_2.4GHz_Left"
-			(at 256.54 114.3 0)
+			(at 271.78 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7234,7 +7234,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 256.54 114.3 0)
+			(at 271.78 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7243,7 +7243,7 @@
 			)
 		)
 		(property "Description" "Antenna"
-			(at 256.54 114.3 0)
+			(at 271.78 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,7 +8467,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 260.35 119.38 0)
+		(at 275.59 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8476,7 +8476,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0b2da3f-e3d2-407e-a703-66d75f1e87e7")
 		(property "Reference" "#PWR025"
-			(at 260.35 125.73 0)
+			(at 275.59 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8485,7 +8485,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 260.35 124.46 0)
+			(at 275.59 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8493,7 +8493,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 260.35 119.38 0)
+			(at 275.59 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8502,7 +8502,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 119.38 0)
+			(at 275.59 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8511,7 +8511,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 260.35 119.38 0)
+			(at 275.59 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
