@@ -5285,8 +5285,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Notes:\n1.  See https://www.ti.com/lit/an/swru120d/swru120d.pdf\n"
-		(at 180.2 137.2 0)
+	(gr_text "Notes:\n1.  See https://www.ti.com/lit/an/swru120d/swru120d.pdf\n\nDecisions Made\no Used KiCAD's antenna, added second pin.  This is a flying wire.  The issue is it avoids the 50 ohms exercise.\no The 74HC4050 pinout is much bigger than the 74AHC4050.\no Use the WiFi only module, not the WiFi + LoRa module \n    - https://dwmzone.com/en/wireless-tag/1227-wtlrc262-sg-esp32-c2-sx1262-wifi-ble-lora-lorawan-module.html\no Use separate R's instead of the squarish quad R\no Same size as Adafruit's (larger will be easier to solder)\n"
+		(at 180.3 147.2 0)
 		(layer "User.1")
 		(uuid "b1593f80-d94c-4228-aee4-fac0bbedd1fa")
 		(effects
